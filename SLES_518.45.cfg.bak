@@ -1,0 +1,17 @@
+CfgVersion=8
+Title=Barbie Horse Adventures - Wild Horse Rescue
+Vmode=vmode/ntsc
+VmodeText=NTSC
+Rating=rating/4
+RatingText=4
+Description=Ride as Barbie to find and rescue lost wild horses from a mysterious fog. Explore a vast open world, complete quests, and care for your horses in this equestrian adventure.
+Release=08-31-2003
+Developer=Blue Tongue Entertainment
+Genre=Adventure
+Players=players/1
+PlayersText=1
+Parental=esrb/e
+ParentalText=E
+Device=device/6
+DeviceText=HDD
+$ConfigSource=1
